@@ -1,5 +1,0 @@
-Try to add a file to git.
-
-Try to modify my file for the first time.
-
-Modify this file for the second time.
